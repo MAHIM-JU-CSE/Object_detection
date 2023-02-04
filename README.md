@@ -34,6 +34,12 @@ Make sure you are reading your testing image. For that just update the line
 
 by `image = cv2.imread('your image')` 
 
+## Output
+
+![](Images/output1.PNG)
+![](Images/output2.png)
+![](Images/output3.png)
+![](Images/output_count.png)
  
 Underneath it uses [YOLOv4](https://github.com/AlexeyAB/darknet) model trained on [COCO dataset](http://cocodataset.org/) capable of detecting 80 [common objects](https://github.com/arunponnusamy/object-detection-opencv/blob/master/yolov3.txt) in context.
 
