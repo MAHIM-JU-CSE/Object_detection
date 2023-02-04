@@ -1,0 +1,3 @@
+https://www.cvlib.net/
+https://pjreddie.com/darknet/yolo/
+https://github.com/leggedrobotics/darknet_ros
